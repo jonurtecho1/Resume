@@ -116,8 +116,8 @@ Responsibilities:
 - Conducted comprehensive silicon-level FIFA on server and high-end desktop processors (Pentium 4 through first-generation i-series) to resolve Analog, I/O, digital Array, Scan, and functional parameter failures across all failure categories (electrical defects, physical failures, reliability issues) through hands-on analysis using FIB, TEM, SEM, and advanced diagnostic techniques, performing extensive root cause analysis and reporting for production yield issues and Customer Returns
 - Coordinated SW/HW tool development Suite for Server products across all HVM factories and divisions for Power/Analog/IO and digital failures (ARR, SCN, FUN, FUSE), managing complete project lifecycle from design and validation through deployment, enabling standardized failure analysis capabilities globally
 - Led FIFA Parametric Power, DC and I/O standardization and readiness WG across all factories and divisions
-- Pentium 4 Technology Transfer: Completed Tour of Duty at Design to perform Pre silicon validation of new I/O DFT including Compensation machines, structural I/O testing, AC I/O loopback, No Touch for Leakage and per leg testing as well as supporting Post Silicon Component Debug and Circuit spec validation, collaborating with PDEs to implement testing coverage with those DFTs into production test programs and establishing Debug Test to HVM ATE correlations
-- i Series Technology Transfer: Completed Tour of Duty at Design to perform Pre/Post silicon validation of new CSI/QPI/DDR/SideBand I/O protocols, conducting Circuit validation, Spec Validation and Bench DV using RVP, CRB and Electrical validation boards, coordinating with PDEs the implementation of HVM content for new I/Os and working closely on System to ATE correlation
+- Pentium 4 FI/FA Competency development: Completed Tour of Duty at Design to perform Pre silicon validation of new I/O DFT including Compensation machines, structural I/O testing, AC I/O loopback, No Touch for Leakage and per leg testing as well as supporting Post Silicon Component Debug and Circuit spec validation, collaborating with PDEs to implement testing coverage with those DFTs into production test programs and establishing Debug Test to HVM ATE correlations
+- i Series Technology FI/FA competency development: Completed Tour of Duty at Design to perform Pre/Post silicon validation of new CSI/QPI/DDR/SideBand I/O protocols, conducting Circuit validation, Spec Validation and Bench DV using RVP, CRB and Electrical validation boards, coordinating with PDEs the implementation of HVM content for new I/Os and working closely on System to ATE correlation
 - Defined/Coordinated/Managed LYA lab Operation transition from Yield Engineering to Quality Engineering under Package FIFA to support factory low yield quick turn around assessment
 - Served as key player on Material Board Reviews, Product Qualifications, and HVM factory certifications task forces while leading Internal FIFA task forces to resolve operating issues and improve FAFI success rates
 - Collaborated with cross-functional teams including Factory module engineers, Quality Engineers, and Factory Management to drive yield improvements and quality initiatives across worldwide operations
@@ -132,38 +132,47 @@ Achievements:
 - Introduced Pentium 4 component debug ATE automation using Perl, enabling automated structural circuit validation, spec validation and verification of new DFT, reducing operations from weeks to minutes (PI walk throughs, PLL/DLL margins, Data Eyes using I/O Loopback)
 - Reduced QPI/CSI validation processing times from hectic manual processes that took days to minutes/hours/autonomous execution by integrating test equipment (TAP controllers, oscilloscopes, PMUs, BERTs, Power Supplies, VRMs) and developing scripts to automate and control tools using GPIB, RS232, PCI, SMBus, I2C with automatic DFT interaction and manipulation
 - Technically led and proficiently managed the FIFA Tools Development Team, coordinating suite design, resource management, development cycles, commits, and readiness across all product families
+- Successfully integrated LYA labs operation into Package FIFA organization and led specialization training for LYA technicians on advanced package failure analysis tools, methodologies, and BKMs, resulting in improved analysis success rates and reduced TPT
+- Successfully designed and implemented VCC/IO LatchUp stress testing for multiple products using innovative low-cost testing solutions and commercial off-the-shelf equipment, achieving full pin count coverage while eliminating dependency on expensive ATE
+- Developed expertise in ATE automations and integration with external test equipment, creating comprehensive solutions for complex measurement and validation scenarios
+- Pioneered the introduction of BIST/Auto-product Configuration on FIFA Low Cost Testing Solutions, enabling automatic detection of faulty components and reducing tester reconfiguration time from hours to minutes, significantly increasing tester utilization for active case work
 - Promoted to Assembly/Test Technologist with specialization in package/product FIFA (highly specialized on Analog/IO parametric), recognized for technical excellence and expertise
+- Recognized as the premier subject matter expert within the global package/product Power-Parametric I/O FIFA community, serving as the go-to authority for the most complex and challenging failures across all Intel operations worldwide, consistently sought after by engineering teams, management, and cross-functional organizations for expert training, strategic coaching, advanced mentoring, and high-level technical consultation on mission-critical failure analysis cases that required unparalleled expertise and innovative problem-solving approaches
 
 Techniques/Methods:
-- Silicon-level failure analysis using advanced analytical tools
-- FIB (Focused Ion Beam) circuit modification and analysis
-- TEM (Transmission Electron Microscopy) for structural analysis
-- SEM analysis for surface and subsurface defect identification
-- Root cause analysis and failure mechanism identification
-- Pre/Post silicon validation methodologies
-- Circuit validation and specification validation
-- Design for Test (DFT) implementation and validation
-- Automated test script development and integration
-- Statistical analysis and yield improvement methodologies
-- Cross-functional team leadership and project management
-- Technology transfer and knowledge documentation
+- Advanced root cause analysis and sophisticated failure mechanism identification
+- Comprehensive Pre/Post silicon validation and correlation methodologies
+- Complex circuit validation and rigorous specification validation
+- Innovative Design for Test (DFT) implementation and validation
+- Advanced automated test script development and seamless integration
+- Statistical analysis and data-driven yield improvement methodologies
+- Strategic cross-functional team leadership and project management
+- Technology transfer excellence and comprehensive knowledge documentation
+- Advanced Logical State Mapping using IREM (detect if a node toggles using diffusion emissions)
+- Sophisticated power analysis using IREM for circuit characterization
+- Complex logical to physical ARR mapping and correlation
+- Comprehensive DFX dumps using TAP (SCNDump, ARR Dump, ARR repair/redundancy, Registers dumps, config chains, fuses)
+- Advanced ARR LYA and yield analysis
+- Dynamic FI On-the-fly pattern generation/insertion for multiple DFX (Scan, BoundaryScan, ARR, Fuses)
+- Advanced On-Die-Clk-Shrink for precise at-speed testing
+- Expert-level Pico-Probing on SEM/XPS systems
+- Precision FIB x-sectioning and sample preparation
+- Advanced Foreign Material or Material contamination analysis using EDX
+- Comprehensive Test Content Conversion: ATE<->LowCost, System<->ATE, STIL to vector, Tapper<->ATE
+- Expert JTAG/TAP FSM manipulation and content Generation. TAP State and Instruction Analysis/Generation
+- Advanced ATE automation using Test Operating System APIs for multiple tester families, vendors and types
+- Professional PCB design/analysis/FA/FI: MentorGraphics and Cadence Allegro
+- Advanced Testing/Product prototyping using FPGAs, CPLDs, General GPIOs (RTL writing, validation, deployment)
+- Complex Reset operation, Reset Sequence, MicroCodePatch, fuse download, Product Unlock
+- Advanced Parametric I/O / Power analysis/characterization: ISVM, VSIM, Curve Tracing
 
 Technologies/Tools:
-- FIB (Focused Ion Beam) systems
-- TEM (Transmission Electron Microscopy)
-- SEM (Scanning Electron Microscopy)
+- FIB/TEM/SEM/EDX/IREM systems for advanced materials analysis
 - ATE (Automatic Test Equipment) for multiple processor families
 - Probers and thermal controllers
-- Oscilloscopes and advanced measurement equipment
+- Oscilloscopes and advanced measurement equipment (BERT, PMU, Power Supplies, VRMs)
 - TAP controllers and protocol analyzers
-- PMUs (Parametric Measurement Units)
-- BERTs (Bit Error Rate Testers)
-- Power supplies and VRMs (Voltage Regulator Modules)
-- RVP (Reference Validation Platform) boards
-- CRB (Customer Reference Board) systems
-- PPV (Pre-Production Validation) and CMV boards
-- Diamond Windows and specialized coaters
-- Perl scripting for test automation
+- Programming languages: Perl, Python, C++, C#, TCL for test automation and tool development
 - GPIB, RS232, PCI, SMBus, I2C communication protocols
 - Database systems and web interfaces
 - SW/HW development tools and version control systems
