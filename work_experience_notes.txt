@@ -21,44 +21,20 @@ Start Date: February 8, 1998
 End Date: December 1998
 Responsibilities:
 - Test Operator: Tested Intel Pentium 2 SECC processors using ICT equipment
-- Post Assembly Visual Inspector: Performed quality inspection of assembled 
-  Pentium 2 cartridges for defects and compliance with quality standards
-- FI and Rework: Conducted in-line fault isolation to identify and diagnose 
-  product defects based on ICT logs, then performed rework on repairable 
-  products including touch-ups, component replacement, and correcting solder 
-  defects (cold solders, insufficient solder, solder bridges, shorts, opens)
-- Cross-functional Collaboration: Interacted with Quality FIFA engineers to 
-  root cause sources of defects and low yield. Supported reject validations, 
-  root cause DOE analysis, and implemented corrective actions in test 
-  operations by improving and implementing procedures
-- Test Area Coordination: Volunteered to distribute operators across testers 
-  to maximize tester utilization and minimize downtime. Coordinated operator 
-  breaks, lunch times, vacations, sick leave, and no-shows. Scheduled 
-  preventive maintenance downtime for testers to ensure continuous flow
-- Training: Trained new operators on test operations, FI rework, and post 
-  visual inspection procedures
-- Specialized BGA Rework: Selected as part of a reduced group of operators 
-  trained to rework BGA processing on SECC PCBs, requiring complex technical 
-  skills and precision craftsmanship
+- Post Assembly Visual Inspector: Performed quality inspection of assembled Pentium 2 cartridges for defects and compliance with quality standards
+- FI and Rework: Conducted in-line fault isolation to identify and diagnose product defects based on ICT logs, then performed rework on repairable products including touch-ups, component replacement, and correcting solder defects (cold solders, insufficient solder, solder bridges, shorts, opens)
+- Cross-functional Collaboration: Interacted with Quality FIFA engineers to root cause sources of defects and low yield. Supported reject validations, root cause DOE analysis, and implemented corrective actions in test operations by improving and implementing procedures
+- Test Area Coordination: Volunteered to distribute operators across testers to maximize tester utilization and minimize downtime. Coordinated operator breaks, lunch times, vacations, sick leave, and no-shows. Scheduled preventive maintenance downtime for testers to ensure continuous flow
+- Training: Trained new operators on test operations, FI rework, and post visual inspection procedures
+- Specialized BGA Rework: Selected as part of a reduced group of operators trained to rework BGA processing on SECC PCBs, requiring complex technical skills and precision craftsmanship
 
 Achievements:
-- Identified failing ICT signatures and mapped them to specific components 
-  based on rework knowledge, created BKMs to process those signatures faster 
-  by determining possible fault locations and narrowing down failures to 
-  specific components or regions on the SECC assembly
-- Maintained tester utilization >90% (9 out of 10 testers operating at all 
-  times during 12-hour shifts) through effective operator scheduling and 
-  resource management
-- Maximized throughput to 10 lots per tester per 12-hour shift by 
-  implementing efficient load/unload mechanisms to minimize idle times
-- Proactively volunteered for off-shift test area equipment installation, 
-  certifications, equipment sign-off, and release to production (outside role 
-  requirements) to gain deeper understanding of tester systems
-- Became the go-to resource for Quality FIFA labs to support reworks and 
-  DOEs for root cause analysis
-- Developed deep knowledge of tester architecture beyond basic operation, 
-  providing technical feedback to module engineers on equipment malfunctions 
-  and insights about possible faults
+- Identified failing ICT signatures and mapped them to specific components based on rework knowledge, created BKMs to process those signatures faster by determining possible fault locations and narrowing down failures to specific components or regions on the SECC assembly
+- Maintained tester utilization >90% (9 out of 10 testers operating at all times during 12-hour shifts) through effective operator scheduling and resource management
+- Maximized throughput to 10 lots per tester per 12-hour shift by implementing efficient load/unload mechanisms to minimize idle times
+- Proactively volunteered for off-shift test area equipment installation, certifications, equipment sign-off, and release to production (outside role requirements) to gain deeper understanding of tester systems
+- Became the go-to resource for Quality FIFA labs to support reworks and DOEs for root cause analysis
+- Developed deep knowledge of tester architecture beyond basic operation, providing technical feedback to module engineers on equipment malfunctions and insights about possible faults
 
 Technologies/Tools:
 - ICT equipment for Pentium 2 SECC processors
@@ -83,49 +59,21 @@ Location: Costa Rica
 Start Date: January 1999
 End Date: December 2003
 Responsibilities:
-- Conducted comprehensive FIFA on Pentium 2 SECC products to resolve 
-  production yield issues, quality monitor triggers, and stress readout 
-  failures, leveraging advanced analytical instrumentation (ICT, X-RAY, 
-  CSAM/TSAM, CNC, SEM/EDX, FTIR, TDR, Plasma Etchers, PMU, Pico/Micro 
-  Probers) while performing destructive FA through cross-sectioning, 
-  chemical/mechanical deprocessing, and conductive coating application for 
-  SEM analysis
-- Led Material Board Review and Yield Improvement Task Forces to identify 
-  and resolve failure modes/mechanisms impacting production yield and product 
-  quality through comprehensive FIFA analysis, DOEs, root cause investigations, 
-  and systematic corrective action recommendations
-- Drove Assembly and Product HVM site certifications for FIFA labs and 
-  production processes, developing innovative matching criteria for emerging 
-  assembly/test technologies beyond traditional MCM approaches
-- Established FIFA lab infrastructure across multiple operations by managing 
-  tool procurement, budget planning/allocation, equipment installation and 
-  qualification, consumables management, and facility/equipment maintenance
+- Conducted comprehensive FIFA on Pentium 2 SECC products to resolve production yield issues, quality monitor triggers, and stress readout failures, leveraging advanced analytical instrumentation (ICT, X-RAY, CSAM/TSAM, CNC, SEM/EDX, FTIR, TDR, Plasma Etchers, PMU, Pico/Micro Probers) while performing destructive FA through cross-sectioning, chemical/mechanical deprocessing, and conductive coating application for SEM analysis
+- Led Material Board Review and Yield Improvement Task Forces to identify and resolve failure modes/mechanisms impacting production yield and product quality through comprehensive FIFA analysis, DOEs, root cause investigations, and systematic corrective action recommendations
+- Drove Assembly and Product HVM site certifications for FIFA labs and production processes, developing innovative matching criteria for emerging assembly/test technologies beyond traditional MCM approaches
+- Established FIFA lab infrastructure across multiple operations by managing tool procurement, budget planning/allocation, equipment installation and qualification, consumables management, and facility/equipment maintenance
 
 Achievements:
-- Successfully enabled CR Package FIFA labs to support next-generation OLGA 
-  packages and managed ceramic/PCB package EOL transitions
-- Architected and implemented robust FIFA tracking systems featuring database 
-  backend and web-based user interfaces for streamlined job submission and 
-  workflow management
-- Recognized as global Package FIFA subject matter expert, integrating 
-  critical task forces across worldwide Intel operations
+- Successfully enabled CR Package FIFA labs to support next-generation OLGA packages and managed ceramic/PCB package EOL transitions
+- Architected and implemented robust FIFA tracking systems featuring database backend and web-based user interfaces for streamlined job submission and workflow management
+- Recognized as global Package FIFA subject matter expert, integrating critical task forces across worldwide Intel operations
 - Orchestrated seamless Y2K lab infrastructure transition with zero downtime
-- Pioneered package FIFA methodologies and techniques that remain standard 
-  practice in Intel labs today
-- Scaled lab operations as founding technician, expanding team 5x (from 2 to 
-  10+ members) through comprehensive training, coaching, and mentoring programs
-- Completed strategic 1-year Tour of Duty in Assembly/Test Technology 
-  Development, evaluating and certifying innovative packaging technologies 
-  including package reliability assessments, die underfill processes, and IHS 
-  solutions for Pentium 3 product family
-- Developed the first-ever Package FIFA ATE channel-to-package signal mapper 
-  system, transitioning from inefficient text/Excel files to a web-based 
-  interface with database backend for storing collaterals across different 
-  tester configurations and loadboards, improving TPT while eliminating all 
-  cases of wrong mappings
-- Leveraged extensive package FIFA knowledge to extend support beyond product 
-  into module equipment, loadboards, motherboards, sockets, burn-in boards, 
-  embedded boards/systems, module mechanical failures, and operation failures
+- Pioneered package FIFA methodologies and techniques that remain standard practice in Intel labs today
+- Scaled lab operations as founding technician, expanding team 5x (from 2 to 10+ members) through comprehensive training, coaching, and mentoring programs
+- Completed strategic 1-year Tour of Duty in Assembly/Test Technology Development, evaluating and certifying innovative packaging technologies including package reliability assessments, die underfill processes, and IHS solutions for Pentium 3 product family
+- Developed the first-ever Package FIFA ATE channel-to-package signal mapper system, transitioning from inefficient text/Excel files to a web-based interface with database backend for storing collaterals across different tester configurations and loadboards, improving TPT while eliminating all cases of wrong mappings
+- Leveraged extensive package FIFA knowledge to extend support beyond product into module equipment, loadboards, motherboards, sockets, burn-in boards, embedded boards/systems, module mechanical failures, and operation failures
 
 Techniques/Methods:
 - Cross-sectioning (X-section)
@@ -159,15 +107,34 @@ Technologies/Tools:
 
 JOB 3:
 ------
-Job Title: 
-Company: 
-Location: 
-Start Date: 
-End Date: 
+Job Title: Silicon FIFA Engineer
+Company: Intel Corporation
+Location: Costa Rica
+Start Date: January 2005
+End Date: June 2014
 Responsibilities:
-- 
+- Conducted comprehensive silicon-level FIFA on server and high-end desktop processors (Pentium 4 through first-generation i-series) to resolve Analog, I/O, digital Array, Scan, and functional parameter failures across all failure categories (electrical defects, physical failures, reliability issues) through hands-on analysis using FIB, TEM, SEM, and advanced diagnostic techniques, performing extensive root cause analysis and reporting for production yield issues and Customer Returns
+- Coordinated SW/HW tool development Suite for Server products across all HVM factories and divisions for Power/Analog/IO and digital failures (ARR, SCN, FUN, FUSE), managing complete project lifecycle from design and validation through deployment, enabling standardized failure analysis capabilities globally
+- Led FIFA Parametric Power, DC and I/O standardization and readiness WG across all factories and divisions
+- Pentium 4 Technology Transfer: Completed Tour of Duty at Design to perform Pre silicon validation of new I/O DFT including Compensation machines, structural I/O testing, AC I/O loopback, No Touch for Leakage and per leg testing as well as supporting Post Silicon Component Debug and Circuit spec validation, collaborating with PDEs to implement testing coverage with those DFTs into production test programs and establishing Debug Test to HVM ATE correlations
+- i Series Technology Transfer: Completed Tour of Duty at Design to perform Pre/Post silicon validation of new CSI/QPI/DDR/SideBand I/O protocols, conducting Circuit validation, Spec Validation and Bench DV using RVP, CRB and Electrical validation boards, coordinating with PDEs the implementation of HVM content for new I/Os and working closely on System to ATE correlation
+- Managed LYA lab Operation to support factory low yield quick turn around assessment
+- Served as key player on Material Board Reviews, Product Qualifications, and HVM factory certifications task forces while leading Internal FIFA task forces to resolve operating issues and improve FAFI success rates
+- Collaborated with cross-functional teams including Factory module engineers, Quality Engineers, and Factory Management to drive yield improvements and quality initiatives across worldwide operations
+- Managed lab readiness for new technologies and products by coordinating capital equipment procurement and qualification (ATE, probers, oscilloscopes, thermal controllers) and managing consumables/specialized hardware (Diamond Windows, coaters) to support new product introductions
+- Pioneered process development of novel FI techniques for new products by leveraging emerging DFT mechanisms and advanced diagnostic methodologies
+- Led technology learning initiatives and DFX implementation, developing comprehensive training tools and bringing engineers up to speed on new products and analytical techniques
 
 Achievements:
+- Delivered FIFA SW/HW tools for Analog, Parametric I/O, SCN, ARR and SBFT to all factories and divisions across multiple product families and generations, consistently meeting Product Qualification timelines with 100% on-time delivery
+- Implemented novel FIFA low-cost hardware solutions using "system-like" approaches to perform analysis, reducing dependency on expensive ATE configurations and dramatically lowering FIFA operational costs while accelerating lab readiness through simpler systems that were easier to learn and operate
+- Introduced the usage of CRB, RVP, PPV, and CMV boards to perform fault isolation, further reducing need for even low-cost FIFA hardware by leveraging tools from system validation teams
+- Introduced Pentium 4 component debug ATE automation using Perl, enabling automated structural circuit validation, spec validation and verification of new DFT, reducing operations from weeks to minutes (PI walk throughs, PLL/DLL margins, Data Eyes using I/O Loopback)
+- Reduced QPI/CSI validation processing times from hectic manual processes that took days to minutes/hours/autonomous execution by integrating test equipment (TAP controllers, oscilloscopes, PMUs, BERTs, Power Supplies, VRMs) and developing scripts to automate and control tools using GPIB, RS232, PCI, SMBus, I2C with automatic DFT interaction and manipulation
+- Technically led and proficiently managed the FIFA Tools Development Team, coordinating suite design, resource management, development cycles, commits, and readiness across all product families
+- Promoted to Assembly/Test Technologist with specialization in package/product FIFA (highly specialized on Analog/IO parametric), recognized for technical excellence and expertise
+
+Techniques/Methods:
 - 
 
 Technologies/Tools:
@@ -180,33 +147,68 @@ Technologies/Tools:
 
 ACRONYMS:
 ---------
+ARR - Array
 ATE - Automatic Test Equipment
+BERT - Bit Error Rate Tester
 BGA - Ball Grid Array
 BKM - Best Known Methods
+CMV - Customer/Manufacturing Validation
 CR - Costa Rica
+CRB - Customer Reference Board
+CSI - Common System Interface
 CSAM - C-mode Scanning Acoustic Microscopy
 CNC - Computer Numerical Control
 DB - Database
+DC - Direct Current
+DDR - Double Data Rate
+DFT - Design for Test
+DFX - Design for X (Design for Excellence)
+DLL - Delay-Locked Loop
 DOE - Design of Experiments
+DV - Design Verification
 EDX - Energy Dispersive X-ray
 EOL - End of Life
 FA - Failure Analysis
+FAFI - Fault Analysis and Failure Isolation
+FIB - Focused Ion Beam
 FIFA - Fault Isolation and Failure Analysis
 FI - Fault Isolation
 FTIR - Fourier Transform Infrared Spectroscopy
+FUN - Functional
+FUSE - Fuse Array
+GPIB - General Purpose Interface Bus
 HVM - High Volume Manufacturing
+I/O - Input/Output
+I2C - Inter-Integrated Circuit
 ICT - In Circuit Test
 IHS - Integrated Heat Spreader
+LYA - Low Yield Analysis
 MCM - Multi-Chip Module
 OLGA - Organic Land Grid Array
+PCI - Peripheral Component Interconnect
 PCB - Printed Circuit Board
+PDE - Product Design Engineer
+PI - Phase Interpolator
+PLL - Phase-Locked Loop
 PMU - Parametric Measurement Unit
+PPV - Pre-Production Validation
+QPI - QuickPath Interconnect
+RS232 - Recommended Standard 232
+RVP - Reference Validation Platform
+SBFT - Structural Based Functional Test
+SCN - Scan
 SECC - Single Edge Contact Cartridge
 SEM - Scanning Electron Microscopy
+SMBus - System Management Bus
+SW/HW - Software/Hardware
+TAP - Test Access Port
 TDR - Time Domain Reflectometry
+TEM - Transmission Electron Microscopy
 TF - Task Force
 TPT - Time Per Test
 TSAM - Through Scanning Acoustic Microscopy
+VRM - Voltage Regulator Module
+WG - Working Group
 Y2K - Year 2000
 
 ---
