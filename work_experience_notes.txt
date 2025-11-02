@@ -118,7 +118,7 @@ Responsibilities:
 - Led FIFA Parametric Power, DC and I/O standardization and readiness WG across all factories and divisions
 - Pentium 4 Technology Transfer: Completed Tour of Duty at Design to perform Pre silicon validation of new I/O DFT including Compensation machines, structural I/O testing, AC I/O loopback, No Touch for Leakage and per leg testing as well as supporting Post Silicon Component Debug and Circuit spec validation, collaborating with PDEs to implement testing coverage with those DFTs into production test programs and establishing Debug Test to HVM ATE correlations
 - i Series Technology Transfer: Completed Tour of Duty at Design to perform Pre/Post silicon validation of new CSI/QPI/DDR/SideBand I/O protocols, conducting Circuit validation, Spec Validation and Bench DV using RVP, CRB and Electrical validation boards, coordinating with PDEs the implementation of HVM content for new I/Os and working closely on System to ATE correlation
-- Managed LYA lab Operation to support factory low yield quick turn around assessment
+- Defined/Coordinated/Managed LYA lab Operation transition from Yield Engineering to Quality Engineering under Package FIFA to support factory low yield quick turn around assessment
 - Served as key player on Material Board Reviews, Product Qualifications, and HVM factory certifications task forces while leading Internal FIFA task forces to resolve operating issues and improve FAFI success rates
 - Collaborated with cross-functional teams including Factory module engineers, Quality Engineers, and Factory Management to drive yield improvements and quality initiatives across worldwide operations
 - Managed lab readiness for new technologies and products by coordinating capital equipment procurement and qualification (ATE, probers, oscilloscopes, thermal controllers) and managing consumables/specialized hardware (Diamond Windows, coaters) to support new product introductions
@@ -135,10 +135,38 @@ Achievements:
 - Promoted to Assembly/Test Technologist with specialization in package/product FIFA (highly specialized on Analog/IO parametric), recognized for technical excellence and expertise
 
 Techniques/Methods:
-- 
+- Silicon-level failure analysis using advanced analytical tools
+- FIB (Focused Ion Beam) circuit modification and analysis
+- TEM (Transmission Electron Microscopy) for structural analysis
+- SEM analysis for surface and subsurface defect identification
+- Root cause analysis and failure mechanism identification
+- Pre/Post silicon validation methodologies
+- Circuit validation and specification validation
+- Design for Test (DFT) implementation and validation
+- Automated test script development and integration
+- Statistical analysis and yield improvement methodologies
+- Cross-functional team leadership and project management
+- Technology transfer and knowledge documentation
 
 Technologies/Tools:
-- 
+- FIB (Focused Ion Beam) systems
+- TEM (Transmission Electron Microscopy)
+- SEM (Scanning Electron Microscopy)
+- ATE (Automatic Test Equipment) for multiple processor families
+- Probers and thermal controllers
+- Oscilloscopes and advanced measurement equipment
+- TAP controllers and protocol analyzers
+- PMUs (Parametric Measurement Units)
+- BERTs (Bit Error Rate Testers)
+- Power supplies and VRMs (Voltage Regulator Modules)
+- RVP (Reference Validation Platform) boards
+- CRB (Customer Reference Board) systems
+- PPV (Pre-Production Validation) and CMV boards
+- Diamond Windows and specialized coaters
+- Perl scripting for test automation
+- GPIB, RS232, PCI, SMBus, I2C communication protocols
+- Database systems and web interfaces
+- SW/HW development tools and version control systems
 
 
 [Add more jobs as needed]
