@@ -178,6 +178,168 @@ Technologies/Tools:
 - SW/HW development tools and version control systems
 
 
+JOB 4:
+------
+Job Title: Foundry FI/FA/Component Debug Engineer
+Company: Intel Corporation
+Location: Oregon, USA
+Start Date: July 2014
+End Date: June 2016
+Responsibilities:
+- Execute comprehensive Component Debug/Fault Isolation operations and architect strategic Failure Analysis Plans for Intel Foundry Customers, ensuring optimal technical support and problem resolution
+- Collaborate with customers to systematically gather critical product intelligence and establish robust CD/FA/FI support infrastructure and strategic implementation plans (comprehensive access to schematics, layout specifications, DFX documentation, advanced content understanding, sophisticated testing methodologies and mechanisms, clear expectations and defined boundaries for critical information management)
+- Deploy Intel proprietary ATE platform integration with advanced Probing Tools (LADA, OTRE, IREM) to enable sophisticated foundry lab capabilities and enhance analytical precision
+- Architected and deployed comprehensive FIFA Foundry Labs Jobs Tracking system while developing sophisticated efficiency analytics and performance dashboards for executive-level management visibility and strategic decision-making
+- Define and implement comprehensive FIFA Foundry Lab Product Readiness protocols for all Foundry Customers (advanced ATE setup configurations, precision probing setup optimization, database infrastructure establishment, strategic SW tool development initiatives)
+- Provide expert training and mentoring to Foundry FIFA Engineers in advanced DFX methodologies, TAP protocols, complex Failure Modes/Mechanisms analysis, strategic FA planning, innovative debug approaches, and professional FIFA reporting standards
+- Architect and develop advanced SW Tools for sophisticated FAFI Analysis utilizing Python, TCL, C++, C#, Command Line interfaces while enabling Intel's comprehensive CD/FAFI/SW infrastructure ecosystem
+- Implement and optimize innovative Low Cost Testing Solutions for Foundry FIFA operations to strategically minimize operating costs while maintaining analytical excellence
+
+Achievements:
+- Contributed to successfully enabling Foundry FIFA labs to support 10 products within a 2-year timeframe while consistently meeting aggressive Time to PRQ (Product Readiness Qualification) timelines, demonstrating exceptional project execution and delivery capabilities
+- Debugged Class Test Program implementation defects affecting SPOFI (Single Point of Failure Isolation) data collection integrity and collaborated with Content/Module Owners to generate targeted FI content and develop efficient workflows for comprehensive SPOFI execution and systematic collection of all relevant failure data at the precise point of failure
+- Collaborated with Test Program (TP) and Yield Teams to implement efficient test methodologies for characterizing chain failures through DFT decompression analysis and datalog correlation of failing chains at Sort operations, strategically preventing assembly of defective dies while establishing comprehensive database infrastructure to enable accelerated FI turnaround times when intentionally assembled defective parts require analysis
+- Successfully executed comprehensive FAFI operations across 10 distinct products featuring diverse architectures, specifications, DFX implementations, tooling configurations, form factors, pinouts, test programs, and ATE platforms while resolving complex failure modes and mechanisms including Boundary Scan defects, Power LDO irregularities, VR malfunctions, VCC/IO leakage analysis, Opens/Shorts diagnostics, ATPG stuck-at faults, ATPG time domain violations, ARR cell/redundancy failures, and package/assembly failures, demonstrating strong technical versatility across heterogeneous product portfolios
+- Implemented innovative fault isolation methodology for SCN (Scan) chain time violations, enabling precise failure localization to strategically reduced chain segments through advanced on-the-fly pattern injection techniques and first power-up scan dump analysis, dramatically accelerating binary search fault location processes using sophisticated probing tools and significantly reducing overall debug turnaround times
+- Contributed to the development of interface solutions enabling integration of probing tools (LADA, OTRE, IREM) with Intel ATE platforms, including validation of Tester Manipulator docking systems, cable interface engineering for floating test-head configurations, and floating interface hardware development designed to minimize mechanical vibrations and improve analytical precision
+- Supported BurnIn operations by architecting Test LoadBoards for Multi-DUT capacity configurations and providing comprehensive validation/debug support for First Article and HVM setup processes, ensuring optimal burn-in test infrastructure and operational reliability
+- Provided strategic coaching and mentoring to Test Program/Module/Yield teams across multiple products on advanced DFT methodologies and sophisticated HVM testing approaches, enabling improved testing effectiveness and enhanced product quality outcomes
+- Defined innovative logical to physical mapping FI methodologies for products featuring silicon interconnect (EMIB) and complex package interconnections, developing comprehensive analysis approaches that were subsequently ported to Intel products and became standard practice for advanced packaging technologies
+- Developed advanced SW tools to enhance probing docking/alignment precision and sophisticated die navigation and repositioning capabilities through strategic Netlist/Layout database integration APIs, enabling seamless correlation between logical design data and physical failure locations for accelerated debug operations
+
+Techniques/Methods:
+- Advanced SPOFI (Single Point of Failure Isolation) methodology and data collection optimization
+- Sophisticated DFT decompression analysis and datalog correlation techniques
+- Strategic chain failure characterization through Sort operations analysis
+- Innovative on-the-fly pattern injection for SCN chain fault isolation
+- Advanced binary search fault localization methodologies
+- Comprehensive first power-up scan dump analysis and interpretation
+- Strategic database infrastructure design and implementation
+- Advanced probing tools integration and optimization (LADA, OTRE, IREM)
+- Sophisticated ATE platform integration and configuration management
+- Professional customer intelligence gathering and product readiness protocols
+- Advanced failure modes and mechanisms analysis across diverse architectures
+- Strategic FA planning and execution methodologies
+- Comprehensive component debug workflows and systematic approaches
+- Professional FIFA reporting standards and documentation practices
+- Advanced training and mentoring methodologies for technical teams
+- Innovative low-cost testing solution development and implementation
+- Strategic efficiency analytics and performance dashboard development
+- Advanced interface engineering for floating test-head configurations
+- Comprehensive validation and debug protocols for burn-in operations
+- Strategic test loadboard architecture for multi-DUT configurations
+
+Technologies/Tools:
+- LADA, OTRE, IREM, LVP, FIB probing and analysis systems
+- Micro probing at Die and Package level
+- Intel proprietary ATE platforms (multiple families and vendors)
+- Python programming language for automation and analysis
+- Programming languages: TCL, C++, C#, Command Line/Shell scripting
+- SQL databases and database management systems
+- Web-based dashboards and reporting interfaces
+- Netlist/Layout database APIs, CAD layout viewers and analysis software
+- Tester Manipulator hardware systems, cable interface engineering and floating test-head hardware
+- LoadBoard design architecture for Single DUT and multi-DUT for different operations (Sort, Class, BurnIn)
+- SPOFI (Single Point of Failure Isolation) generation/processing
+- DFT and Registers dump using SW/HW tapper tools
+- Die navigation and positioning systems
+- Test and measurement equipment: Oscilloscopes, Logic analyzers, Protocol analyzers, Signal generators, Pattern generators, Power supplies, PMU, Thermal controllers
+- Version control systems (Git, SVN)
+- Issue tracking and project management tools
+
+JOB 5:
+------
+Job Title: Test Technology Development (TTD) Product Development Engineer (PDE)
+Company: Intel Corporation
+Location: Oregon, USA
+Start Date: July 2016
+End Date: June 2019
+Responsibilities:
+- Develop and deliver Test Program Modules for Intel Foundry Products, focusing on Silicon Health Monitor implementations, Dynamic ICC characterization, and Static ICC validation to ensure product performance and reliability across foundry customer portfolios
+- Execute Test Program Architecture and Development for multiple Intel 10nm process test chips, implementing advanced testing methodologies and validation protocols to support next-generation semiconductor technology development
+- Lead ATE platform conversion projects from V93K to Intel proprietary ATE systems, managing test content migration, hardware validation, and operational readiness to ensure seamless technology transitions
+- Conduct Intel ATE validation and certification for Intel HVM products, performing platform qualification, performance validation, and compliance verification to meet production requirements and quality standards
+- Support Tester ATE Hardware R&D initiatives by collaborating with research teams to evaluate emerging testing technologies, validate new hardware capabilities, and contribute to next-generation ATE platform development
+- Support System Level Test R&D initiatives by researching mechanisms to reduce HW cost and increase testing efficiency
+- Interface with Component Debug and FIFA teams to tackle Low Yield or circuit debug due to assembly or process failures
+
+Achievements:
+- Successfully delivered Foundry Products Module Development by interacting with external customers to define comprehensive test plans for their IP blocks, developing robust module architecture, and providing precise, concise data for customers to assess their IP functionality and performance
+- Successfully completed execution of four Intel 10nm Test Chips with IP blocks ranging from different IP cores, LLC, memory types and controllers, delivering results weeks ahead of deadlines while providing outstanding reports for memory performance, Pre-Si PV to Si correlations, new DFX validation, and TP infrastructure definition/standards for testing on 10nm and beyond
+- Deployed successful content conversion from V93K to Intel ATE, enabling seamless transfer of test content from OSAT to Intel factories for RF products
+- Served as key player in strategy definition and execution of Intel ATE signoff for HVM by completing T2000 to Intel ATE correlation, which allowed Intel ATE to be released for HVM at Sort/Class operations, establishing critical production capability and enabling full-scale manufacturing deployment
+- Successfully contributed to SLT R&D approaches to migrate System Level Test to Intel ATE platform by developing SLT Test Interface Units (TIUs) with advanced interfaces to connect to ATE, enabling comprehensive control of PowerUp/Down sequences and Sideband signal management while leveraging test module collaterals including thermal controllers and automation infrastructure to create unified socket solutions for Class and SLT operations within the same ecosystem
+- Successfully collaborated with Intel ATE architects to define comprehensive Hardware and Validation Strategy for the strategic initiative of increasing Intel ATE channel density and enhancing RF testing capabilities, implementing Engineering Test Programs and Debug Tools to evaluate performance and stability while contributing to next-generation ATE platform development and expanded testing capacity
+- Deployed advanced SW tools to interface Intel ATE with TAP in-target-probes and Tapper Tools, enabling comprehensive validation of Test Program and content correctness by utilizing system debug and validation SW stack while establishing precise correlation to HVM testing environments
+
+Techniques/Methods:
+- Test Program Development Language using OpenStar MarkUp Language (OTPL) for T2000(S9K) and Intel ATE and SmarTest for V93K
+- Sort/Class/BurnIn Test Program Architecture
+- Test libraries/UserCode development using Perl, Python, C++, C# for different ATE platforms
+- Test Chips product Execution using Engineering Life cycles (PowerOnExit - POE, Silicon Readiness Preliminary - SRP and Silicon Readiness Final - SRF)
+- SLT/LoadBoard layout/schematics analysis using schematics and layout databases
+- SLT EFI content loading for synthetic functional tests
+- SLT PowerUp using off the shelf Power Supplies and ATE to control Sideband signals for reset/straps/powergoods
+- Functional Programming on different languages to process big data acquisition and analysis
+- ATPG, MBIST, PBIST, BoundaryScan, FMAX, HS I/O DFX, GPIOs
+- Drystone functional benchmarks for Compute core performance analysis
+- Shmoo, Voltage/Current Sweeps, FSM walk throughs, Digital Code Sweeps, scan dumps, array dumps/raster
+
+Technologies/Tools:
+- Cadence/Mentor Graphics layout viewer tools
+- CPLD/FPGA programming
+- RTL for HW prototypes (Definition, test bench, eVCD to vector pattern conversion)
+- In-Target-Probe/FPGAs/Off-shelf-UART controllers for TAP/JTAG controlling
+- Circuit Simulation using LTSpice/ElectronicsWB/MultiSim
+- Object Oriented Programming for test classes/UserCode development
+- ATPG diagnosis tools from different providers
+
+JOB 6:
+------
+Job Title: HVM Client Product Development Engineer (PDE) - Technical Lead
+Company: Intel Corporation
+Location: Oregon, USA
+Start Date: July 2019
+End Date: To Date
+Responsibilities:
+- Architect and Deploy HVM class concurrent Dielet Testing using Test Flows parallelism for Intel Gen 10th and onwards for Test Time Reductions by hiding test time using multi-thread ATE execution
+- Architect Test Program Infrastructure to maximize Concurrent Dielet Testing at PowerOn and maximize Test Time savings at PRQ/EOL
+- Work with Product Leads/Manufacturing Technologies/Design DFX to define DFX and product Design features to allow independent dielet testing at package level, time time savings estimations, define pre-silicon validation of parallelism DFX
+- Work with ATE HW Development to design Loadboards capable for Dielet Parallelism testing
+- Define strategies to reduce test cost by implementing HVM testing using reduced set of ATE HW without decreasing coverage with possibilities to increase class testing for > 1x without incurring on additional ATE costs
+- Architect Test Program infrastructure for maximum scalability across products with minimum changes, reuse/share content, reuse content infrastructure generation for different dielets, converge test program modules for Sort and Class and maximum test program reusability across product families
+- Redesign Test Program Architecture from Monolithic to Per-Dielet infrastructure where each dielet can be tested individually with smaller Test Programs for faster IP validations but able to quickly reconfigure for full package Test Program for Correlations and Samples Test as well as HVM setup
+- Architect a Generic Test Program Infrastructure able to scale up with minimum changes across product families, with option to high reusability of content and modules and similar TP interfaces across dielets with different topologies/mechanisms/RTL models
+- Develop automated ATE channel mapping generation processes with minimal manual intervention and comprehensive quality validation to ensure accurate channel-to-product connectivity, eliminating mapping errors and reducing setup time while maintaining high-quality signal integrity for reliable test execution
+
+Achievements:
+- Deployed Concurrent Dielet Testing across 4 Intel product families, achieving EOL test time reductions of 30-200 seconds through architectural design, cross-functional team coordination across global locations, and systematic debugging to meet Product Health Indicators and EOL requirements
+- Successfully introduced the mindset change of single serial dielet execution to parallelism execution within class test programs and helped Modules and Content owners to develop BKMs to debug parallelism induced failures
+- Developed innovative parallelism debug tools, TP metrics for parallelism TT quantification, failures tracking across threads and module development guidelines for parallelism
+- Architected revolutionary TP infrastructure utilizing functional abstraction layers for pin definitions, timings, levels, pattern headers, and pattern domains, replacing product-specific RTL/Package naming conventions with reusable functional abstractions to eliminate massive development overhead and enable rapid product deployment
+- Deployed Git repository and TP folder infrastructure to support Per-Dielet TP development and reconfiguration for final package full test program integration
+- Established as Pins, Levels, Timings (PLT) architect and recognized subject matter expert for Analog/DC/IO testing across Intel's product development organizations
+- Recognized as Intel's leading expert for Concurrent Dielet Testing and test program implementation approaches, consistently sought after across divisions to advise, coach, and guide product implementation strategies
+- Partnered with multiple functional teams to reduce class tester configuration for latest client product to 1/4 of the previous product, resulting in test cost improvement by increasing Tester Output with 4X class testing
+- Developed pre-silicon Test Program validation mechanisms by creating prototyping load boards and product mockups for critical DFX behaviors using FPGAs, enabling validation of TP sequences, PowerUps, PowerDowns, and Tester Channel configurations prior to silicon arrival, resulting in successful PowerOns with minimal debugging and enabling module validation within 3 hours of silicon delivery
+- Instrumental in defining Test Program Integration tools utilizing GitHub and automated validation bots to control changes merging into mainlines, significantly reducing TP integration process complexity and eliminating quality issues
+- Architected comprehensive methodology for automated channel-to-product mapping verification leveraging loadboard specifications and industry standard product reports, systematically eliminating manual interpretation dependencies and error-prone human intervention while achieving superior mapping accuracy and dramatically reducing configuration setup time
+
+Techniques/Methods:
+- GitHub Enterprise repository management for distributed TP development
+- Automated validation bots for online/offline tester integration and mainline merge control
+- FPGA/UART/TAP prototyping hardware for loadboard and product DFX validation
+- Test Program Description Language (OTPL) development and implementation
+- Tester Operating System API integration for TP debugging and system interoperability
+- AI-assisted tooling for TP development workflow optimization and quality validation
+
+Technologies/Tools:
+- GitHub Enterprise
+- GitHub Copilot
+- Altera Cyclone 4 FPGAs and off-the-shelf development boards
+- Free RTL compilers
+- I2C/SPI protocols for ATE collateral automation
+
 [Add more jobs as needed]
 
 ---
